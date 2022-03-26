@@ -1,0 +1,22 @@
+-----------
+Exercícios
+-----------
+1) Elabore um algoritmo que leia 3 números e apresente o resultado da soma do primeiro pelo segundo multiplicado pelo terceiro.
+
+2) Elabore um algoritmo que leia um número inteiro e mostre o valor deste número elevado ao quadrado.
+
+3) Um cliente de um banco tem um saldo positivo de R$ 500,00. Fazer um algoritmo que leia um cheque que entrou e calcule o saldo, mostrando (escrevendo) o novo saldo na tela.
+
+4) Considerando que para um consórcio, sabe-se o número total de prestações, a quantidade de prestações pagas e o valor atual da prestação, escreva um algoritmo que determine o total pago pelo consorciado e o saldo devedor.
+
+5) Construa um algoritmo que leia o nome de um aluno e três notas obtidas durante o semestre, ao final mostre o nome do aluno e a média aritmética das notas.
+
+6) O custo ao consumidor de um carro novo, é a soma do custo de fábrica com a percentagem do revendedor e com o custo dos impostos (aplicados ao custo de fábrica). Supondo que a percentagem do revendedor seja de 25% do custo de fábrica e que os impostos custam 45 % do custo de fábrica, faça um algoritmo que leia o valor de custo de fábrica e determine o preço final do automóvel (custo ao consumidor).
+
+7) Escrever um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o seu nome, o salário fixo e salário no final do mês.
+
+8) Elaborar um algoritmo que efetue a apresentação do valor da conversão em real (R$) de um valor lido em dólar (US$). O algoritmo deverá solicitar o valor da cotação do dólar e também a quantidade de dólares disponíveis com o usuário.
+
+9) Faça um algoritmo que leia uma temperatura em Graus Fahrenheits e mostre a temperatura em Graus Celsius. Para isso pesquise a fórmula na internet.
+
+10) Elabore um algoritmo que leia dois valores inteiros, A e B, e apresente os valores trocados, ou seja, que troque o valor da variável A pelo valor da variável B e vice-versa.
